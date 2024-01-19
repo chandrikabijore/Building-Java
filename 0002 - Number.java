@@ -2,7 +2,8 @@ package com.chandrika;
 
 public class Number
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int NUMBER = 10;
         int number = 20;
         int Number = 30;
@@ -11,4 +12,4 @@ public class Number
         System.out.println(number);
         System.out.println(Number);
     }
-}
+} 
