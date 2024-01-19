@@ -1,0 +1,14 @@
+package com.chandrika;
+
+public class Int
+{
+    public static void main(String[] args) {
+        int x = 2147483647;
+        System.out.println("This is the max value of int : " +x);
+
+        //int y = 2147483648;
+        //int y = 2147483648l;
+        //int y = true;
+        //System.out.println(y);
+    }
+}
