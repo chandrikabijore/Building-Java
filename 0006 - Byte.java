@@ -2,7 +2,8 @@ package com.chandrika;
 
 public class Byte
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         //byte b = 10;
         //byte b = 128;
         //byte b = 10.9;
