@@ -1,7 +1,6 @@
 // we can not use Reserve words as Identifier.
 
 package com.chandrika;
-
 public class Reserve
 {
     public static void main(String[] args)
