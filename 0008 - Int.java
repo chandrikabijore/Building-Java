@@ -2,7 +2,8 @@ package com.chandrika;
 
 public class Int
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int x = 2147483647;
         int x1 = - 2147483648;
         System.out.println("This is the max value of int : " +x);
