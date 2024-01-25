@@ -28,6 +28,11 @@ public class Boolean_Char_Literal
 
        System.out.println(ch4);
 
+       // String Literal
+       String s = "chand";
+
+       System.out.println(s);
+
     }
 
-}
+} 
