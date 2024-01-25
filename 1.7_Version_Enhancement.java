@@ -10,6 +10,8 @@ public class Version_Enhancement_
        // double d = 123456.789;
        // double d1 = 12_34_56.78_9;
 
-      // System.out.println(d);
+        float a = 10l;
+
+       System.out.println(a);
     }
 }
