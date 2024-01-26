@@ -34,6 +34,10 @@ public class length_lengthM
         System.out.println(a[5].length);
         // System.out.println(a[6].length);
 
+        // but indirectly we can specify
+        int size = a[0].length + a[1].length + a[2].length + a[3].length + a[4].length + a[5].length;
+        System.out.println("Total size of this multi dimentional array is : " + size);
+
 
         // EXAMPLE 2
         // Three dimentional array
@@ -46,6 +50,6 @@ public class length_lengthM
 //      System.out.println(x4[2][0][0]);    // AIOOBE
 //      System.out.println(x4[1][2][0]);    // AIOOBE
 
-        System.out.println(x4.length);
+        //System.out.println(x4.length);
     }
 }
