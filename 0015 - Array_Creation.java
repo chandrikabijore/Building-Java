@@ -5,8 +5,6 @@ public class Array_Creation
     public static void main(String[] args)
     {
         int a[] = new int[3];
-
-        int[] x = new int[3];
         System.out.println("\nOne dimentional array or int type :");
         System.out.println(a.getClass().getName());
 
@@ -44,6 +42,18 @@ public class Array_Creation
         System.out.println("\nOne dimentional array or char type :");
         System.out.println(a7.getClass().getName());
 
+        System.out.println("----------------------------");
+        System.out.println("Two dimentional Array");
+
+        //int[][][] x = new int[][4][5];
+        //int[][][] s = new int[3][4][5];
+        int[][][] s = new int[3][4][];
+        System.out.println(s.getClass().getName());
+        
+        int[][] c = new int[2][];
+        c[0] = new int[2];
+        c[1] = new  int[3];
+        System.out.println("----------------------------");
     }
 
 }
