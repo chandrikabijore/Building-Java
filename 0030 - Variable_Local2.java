@@ -9,6 +9,5 @@ public class Variable_Local2
 
         int y;
     //    System.out.println(y);
-
     }
 }
