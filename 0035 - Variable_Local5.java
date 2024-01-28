@@ -16,5 +16,6 @@ public class Variable_Local5
 
 //        x = 20;
 //        System.out.println(x);
+        
     }
 }
