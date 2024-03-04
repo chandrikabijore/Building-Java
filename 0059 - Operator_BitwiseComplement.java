@@ -8,3 +8,4 @@ public class Operator_BitwiseComplement
         System.out.println(~4);
     }
 }
+
