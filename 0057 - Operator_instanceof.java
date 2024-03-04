@@ -19,4 +19,3 @@ public class Operator_instanceof
         System.out.println(null instanceof Runnable);
     }
 }
-          
