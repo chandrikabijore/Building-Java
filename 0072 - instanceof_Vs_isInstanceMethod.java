@@ -8,3 +8,4 @@ public class instanceof_Vs_isInstanceMethod
 //        System.out.println(Class.forName(args[0]),isInstanceof(t));
     }
 }
+
