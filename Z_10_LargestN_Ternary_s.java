@@ -25,5 +25,3 @@ public class LargestN_Ternary_s
         System.out.printf("\n x is : ", + x);
     }
 }
-
-
