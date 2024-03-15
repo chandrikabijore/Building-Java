@@ -19,3 +19,4 @@ public class Add_s
         System.out.printf("%d + %d = %d", number1, number2, Addition);
     }
 }
+
