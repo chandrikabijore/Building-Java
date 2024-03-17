@@ -1,6 +1,6 @@
 package com.chandrika;
 
-public class D_AM_JavaSourceFileStructure_1
+public class D_AM_2_JavaSourceFileStructure
 {
     public static void main(String[] args)
     {
